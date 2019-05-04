@@ -1,0 +1,15 @@
+Day	Outlook	Temperature	Humidity	Wind	PlayTennis
+D1	Sunny	High	Weak	Weak	No
+D2	Sunny	High	Strong	Strong	No
+D3	Overcast	High	Weak	Weak	Yes
+D4	Rain	High	Weak	Weak	Yes
+D5	Rain	Normal	Weak	Weak	Yes
+D6	Rain	Normal	Strong	Strong	No
+D7	Overcast	Normal	Strong	Strong	Yes
+D8	Sunny	High	Weak	Weak	No
+D9	Sunny	Normal	Weak	Weak	Yes
+D10	Rain	Normal	Weak	Weak	Yes
+D11	Sunny	Normal	Strong	Strong	Yes
+D12	Overcast	High	Strong	Strong	Yes
+D13	Overcast	Normal	Weak	Weak	Yes
+D14	Rain	High	Strong	Strong	No
